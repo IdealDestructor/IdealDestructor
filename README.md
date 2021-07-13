@@ -21,7 +21,7 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 
 <hr>
 <p align="center">
-  🍟 Get In Touch
+  🍟 Get in touch
 
 <p align="center">
 <a href= "https://www.facebook.com/IdealDestructor"><img src="https://img.icons8.com/color/30/000000/facebook-circled--v1.png"/></a>
