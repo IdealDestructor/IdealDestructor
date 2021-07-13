@@ -9,8 +9,7 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 * 💻   With 4 years' computer science and technology education in <a href="http://www.nankai.edu.cn">Nankai University</a> and 2 years' frontend development working experience.
 * 📚   Reading more about history, philosophy, science fiction and poetry, favourite authors such as Fitzgerald, Kerouac, etc.
 * 🎻   Amateur producer of <a href="https://music.163.com/#/user/home?id=269911175">Dark Glitch-hop and Synthwave music</a>.
-* ✍🏻   I write my personal thoughts on Art & Tech in my [Personal Blog](https://blog.idealdestructor.com/).
-<!-- <details>
+* ✍🏻   I write my personal thoughts on Art & Tech in my [Personal Blog](https://blog.idealdestructor.com/).<!-- <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
 * 🎉   Student Membership of CAAI / CCF.
