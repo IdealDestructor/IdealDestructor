@@ -1,5 +1,5 @@
 
-# WELCOME TO IdealDestructor'S GITHUB 👋
+# WELCOME TO IDEAL DESTRUCTOR'S GITHUB 👋
 
 ![](https://github.com/IdealDestructor/IdealDestructor/blob/main/icons/header_.png)
 
