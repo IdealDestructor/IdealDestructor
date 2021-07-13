@@ -10,29 +10,14 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 * 📚   Reading more about history, philosophy, science fiction and poetry, favourite authors such as Fitzgerald, Kerouac, etc.
 * 🎻   Amateur producer of <a href="https://music.163.com/#/user/home?id=269911175">Dark Glitch-hop and Synthwave music</a>.
 * ✍🏻   I write my personal thoughts on Art & Tech in my [Personal Blog](https://blog.idealdestructor.com/).
-<!-- <details>
- <summary>Some other achievements about me~e~e</summary>
-  <br>
-* 🎉   Student Membership of CAAI / CCF.
-* 🍎   Epic Developer.👨🏻‍💻 & Apple Teacher.🤪 
-<p align="center">
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p> -->
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=idealdestructor&column=7" alt="IdealDestructor's Github Trophy" />
-<!-- <img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" /> -->
 </p>
 
-<!-- </details> -->
-  
 <hr>
 <p align="center">
   🍟 Get In Touch
@@ -46,13 +31,19 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=idealdestructor.idealdestructor" alt="visitor badge"/>       
-</p>
-
-</p>
-
----
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=idealdestructor.idealdestructor" alt="visitor badge"/>  
+<!-- <details>
+ <summary>Some other achievements about me~e~e</summary>
+  <br>
+* 🎉   Student Membership of CAAI / CCF.
+* 🍎   Epic Developer.👨🏻‍💻 & Apple Teacher.🤪 
+<p align="center">
+<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
+<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
+<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
+<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
+</p> -->
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
