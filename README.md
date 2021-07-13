@@ -2,7 +2,7 @@
 
 ![](https://github.com/IdealDestructor/IdealDestructor/blob/main/icons/header_.png)
 
-I focus on **💻 Recommender System, 📱 Product Design and 🌐 Website Develop** for passion. We can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
+I focus on ** Recommender System, Product Design and Website Develop** for passion, you can share anything to me by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
 * ☕️  Contribute something to open source, main projects including <a href="https://github.com/IdealDestructor/Enterprise_Risk_Visualization">舆图</a> & <a href="https://navi.idealdestructor.com/">哆啦A梦搜索导航</a> & <a href="https://noword.cn">无言</a>.<!-- * 💼    -->
 * 🎓   Master degree candidate of Artificial Intelligence in <a href="http://www.buaa.edu.cn">Beihang University</a>.
 * 🧐    Interests lie broadly also in the areas of Data Visualization, Knowledge Graph and Virtual Reality. 
