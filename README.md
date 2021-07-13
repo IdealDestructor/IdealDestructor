@@ -1,5 +1,5 @@
 
-# WELCOME TO IDEALDESTRUCTOR'S GITHUB HOMEPAGE 👋
+# WELCOME TO IDEALDESTRUCTOR'S GITHUB PERSONAL PAGE 👋
 
 ![](https://github.com/IdealDestructor/IdealDestructor/blob/main/icons/header_.png)
 
