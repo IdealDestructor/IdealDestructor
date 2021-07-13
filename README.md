@@ -2,7 +2,7 @@
 
 ![](https://github.com/IdealDestructor/IdealDestructor/blob/main/icons/header_.png)
 
-I focus on *Recommender System*, *Product Design* and *Website Develop* for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
+I focus on #Recommender System#, #Product Design# and #Website Develop# for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
 * ☕️  Contribute something to open source, main projects including <a href="https://github.com/IdealDestructor/Enterprise_Risk_Visualization">舆图</a> & <a href="https://navi.idealdestructor.com/">哆啦A梦搜索导航</a> & <a href="https://noword.cn">无言</a>.<!-- * 💼    -->
 * 🎓   Master degree candidate of Artificial Intelligence in <a href="http://www.buaa.edu.cn">Beihang University</a>.
 * 🧐   Interests lie broadly also in the areas of Data Visualization, Knowledge Graph and Virtual Reality. 
@@ -10,14 +10,11 @@ I focus on *Recommender System*, *Product Design* and *Website Develop* for pass
 * 📚   Reading more about history, philosophy, science fiction and poetry, favourite authors such as Fitzgerald, Kerouac, etc.
 * 🎻   Amateur producer of <a href="https://music.163.com/#/user/home?id=269911175">Dark Glitch-hop and Synthwave music</a>.
 * ✍🏻   I write my personal thoughts on Art & Tech in my [Personal Blog](https://blog.idealdestructor.com/).
-
 <!-- <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
-
 * 🎉   Student Membership of CAAI / CCF.
 * 🍎   Epic Developer.👨🏻‍💻 & Apple Teacher.🤪 -->
-
 <!-- <p align="center">
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
@@ -25,7 +22,6 @@ I focus on *Recommender System*, *Product Design* and *Website Develop* for pass
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p> -->
-
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
