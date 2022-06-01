@@ -4,7 +4,7 @@
 ![](https://s4.ax1x.com/2022/01/04/TLLnot.png)
 
 I focus on **Recommender System**, **Product Design** and **Website Develop** for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
-* ☕️  Contribute something to open source, main projects including <a href="https://idealdestructor.github.io/">哆啦A梦搜索导航</a><!-- * 💼    -->
+* ☕️  Contribute something to open source, main projects including <a href="https://idealdestructor.github.io/Doraemon">哆啦A梦搜索导航</a><!-- * 💼    -->
 * 🎓   Master degree candidate of Artificial Intelligence in <a href="http://www.buaa.edu.cn">Beihang University</a>.
 * 🧐   Interests lie broadly also in the areas of Data Visualization, Knowledge Graph and Virtual Reality. 
 * 💻   With 4 years' computer science and technology education in <a href="http://www.nanka
