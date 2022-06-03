@@ -1,7 +1,7 @@
 
 # WELCOME TO IDEALDESTRUCTOR'S GITHUB 👋
 
-![](https://s3.bmp.ovh/imgs/2022/06/03/9c582a654d42baed.png)
+![](https://s3.bmp.ovh/imgs/2022/06/03/6f269f48f56df5db.png)
 
 I focus on **Recommender System**, **Product Design** and **Website Develop** for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
 * ☕️  Contribute something to open source, main projects including <a href="https://idealdestructor.github.io/Doraemon">哆啦A梦搜索导航</a><!-- * 💼    -->
