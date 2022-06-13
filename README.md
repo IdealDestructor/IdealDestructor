@@ -14,8 +14,8 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 * 👑   Some GitHub statistical reports:
 <div style="width:100%">
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
+<img style="padding:0 0 6px 0" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img style="padding:0" align="right" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=idealdestructor&column=7" alt="IdealDestructor's Github Trophy" /> -->
 </p>
 </div>
