@@ -15,10 +15,10 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=idealdestructor&column=7" alt="IdealDestructor's Github Trophy" /> -->
 </p>
-
+<br/>
 <hr>
 <p align="center">
   🍟 Take a look at my repositories and let's get in touch
@@ -27,7 +27,7 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 <a href= "https://www.facebook.com/IdealDestructor"><img src="https://img.icons8.com/color/30/000000/facebook-circled--v1.png"/></a>
 <a href= "https://instagram.com/IdealDestructor/"><img src="https://img.icons8.com/color/30/000000/instagram-new--v1.png"/></a>
 <a href= "https://twitter.com/idealdestructor"><img src="https://img.icons8.com/color/30/000000/twitter.png"/></a>
-<a href= "https://idealdestructor.com"><img src="https://img.icons8.com/color/30/000000/web.png"/></a>
+<a href= "https://idealdestructor.github.io"><img src="https://img.icons8.com/color/30/000000/web.png"/></a>
 </p>
 
 <p  align="center">
