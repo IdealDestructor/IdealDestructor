@@ -13,9 +13,9 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 * ✍🏻   I write my personal thoughts on Art & Tech in my [Personal Blog](https://idealdestructor.github.io/blog).
 * 👑   Some GitHub statistical reports:
 <div style="width:100%">
-<p>
-<img style="width:39%;height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img style="width:54%;height:100%;float:left" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
+<p align="center">
+<img style="width:38%;height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img style="width:53%;height:100%;float:left" src="https://github-readme-stats.vercel.app/api?username=idealdestructor&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="IdealDestructor's Github Stats" />
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=idealdestructor&column=7" alt="IdealDestructor's Github Trophy" /> -->
 </p>
 </div>
