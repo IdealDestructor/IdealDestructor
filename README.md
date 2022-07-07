@@ -3,7 +3,7 @@
 
 ![](https://s3.bmp.ovh/imgs/2022/06/03/6f269f48f56df5db.png)
 
-I focus on **Recommender System**, **Transfer Learning** and **Web Development** for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍻.
+I focus on **Recommender System**, **Transfer Learning** and **Front-end Development** for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍻.
 * ☕️  Contribute something to open source, main projects including <a href="https://idealdestructor.github.io/Doraemon">哆啦A梦搜索</a><!-- * 💼    -->
 * 🎓   Master degree candidate of Artificial Intelligence in <a href="http://www.buaa.edu.cn">Beihang University</a>.
 * 💻   With 4 years' computer science and technology education in <a href="http://www.nankai.edu.cn">Nankai University</a>.
