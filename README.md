@@ -9,7 +9,7 @@ I focus on **Recommender System**, **Product Design** and **Website Develop** fo
 * 🧐   Interests lie broadly also in the areas of Data Visualization, Knowledge Graph and Virtual Reality. 
 * 💻   With 4 years' computer science and technology education in <a href="http://www.nankai.edu.cn">Nankai University</a> and 2 years' frontend development working experience.
 * 📚   Reading more about history, philosophy, science fiction and poetry, favourite authors such as Fitzgerald, Kerouac, etc.
-* 🎻   Amateur producer of <a href="https://music.163.com/#/user/home?id=269911175">Dark Glitch-hop and Synthwave music</a>.
+* 🎻   Amateur producer of Dark Glitch-hop and Synthwave <a href="https://idealdestructor.github.io/music">music</a>.
 * ✍🏻   I write my personal thoughts on Art & Tech in my [Personal Blog](https://idealdestructor.github.io/blog).
 * 👑   Some GitHub statistical reports:
 <div style="width:100%">
