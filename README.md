@@ -3,14 +3,14 @@
 
 ![](https://s3.bmp.ovh/imgs/2022/06/03/6f269f48f56df5db.png)
 
-I focus on **Recommender System**, **Transfer Learning** and **Web Development** for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍔 .
+I focus on **Recommender System**, **Transfer Learning** and **Web Development** for passion, we can have a talk by <a href="https://gitter.im/IdealDestructor/community">Gitter</a> 🍻.
 * ☕️  Contribute something to open source, main projects including <a href="https://idealdestructor.github.io/Doraemon">哆啦A梦搜索</a><!-- * 💼    -->
 * 🎓   Master degree candidate of Artificial Intelligence in <a href="http://www.buaa.edu.cn">Beihang University</a>.
 * 💻   With 4 years' computer science and technology education in <a href="http://www.nankai.edu.cn">Nankai University</a>.
 * 📚   Reading more about history, philosophy, science fiction and poetry, favourite authors such as Fitzgerald, Kerouac, etc.
 * 🎻   Amateur producer of Dark Glitch-hop and Synthwave <a href="https://idealdestructor.github.io/music">music</a>.
 * ✍🏻   I write my personal thoughts on Art & Tech in my Personal [Blog](https://idealdestructor.github.io/blog).
-* 👑   Some GitHub statistical reports:
+* 🥤   Some GitHub statistical reports:
 <div style="width:100%">
 <p align="center">
 <img style="width:37%;height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idealdestructor&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
