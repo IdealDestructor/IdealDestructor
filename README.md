@@ -1,5 +1,5 @@
 
-# WELCOME TO IDEALDESTRUCTOR'S GITHUB 👋
+<!-- # WELCOME TO IDEALDESTRUCTOR'S GITHUB 👋
 
 ![](https://s3.bmp.ovh/imgs/2022/06/03/6f269f48f56df5db.png)
 
@@ -30,7 +30,7 @@ I focus on **Recommender System**, **Transfer Learning** and **Front-end Develop
 <a href= "https://idealdestructor.github.io"><img src="https://img.icons8.com/color/30/000000/web.png"/></a>
 </p>
 </div>
-<p  align="center">
+<p  align="center"> -->
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=idealdestructor.idealdestructor" alt="visitor badge"/>  
 <!-- <details>
